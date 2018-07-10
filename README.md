@@ -1,0 +1,1 @@
+![RainmeterSample](RainSample.png)
